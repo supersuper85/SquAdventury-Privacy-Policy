@@ -8,7 +8,7 @@ This data collection is done only when using the "Bug Report" segment of the res
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
 
-Yours sincerely,
-Sopcu Marius-Catalin,
-Iasi, Romania
-csopcu7@gmail.com
+Yours sincerely, 
+Sopcu Marius-Catalin, 
+Iasi, Romania 
+csopcu7@gmail.com 
