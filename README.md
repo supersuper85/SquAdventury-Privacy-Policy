@@ -1,0 +1,1 @@
+# SquAdventury-Privacy-Policy
